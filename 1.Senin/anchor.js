@@ -18,7 +18,7 @@
 
 Set year with any value.
 IF year divided by 4 equals to 0 and year divided by 100 not equals to 0
-    DISPLAY kabisat year
+    DISPLAY leap year
 IF ELSE year divided by 4 equals to 0 and year divided by 100 equals to 100 and year divided equals to 400
     DISPLAY leap year
     ELSE;
