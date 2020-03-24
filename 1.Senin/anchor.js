@@ -1,4 +1,4 @@
- // 1. Newton Second Law 
+ // 1.Hukum Newton II
 
  /* 
 
