@@ -31,11 +31,12 @@ IF ELSE year divided by 4 equals to 0 and year divided by 100 equals to 100 and 
 /* 
 
 Set shirt with 0 
-WHILE shirt <= 20
+WHILE shirt <= 20
       DISPLAY shirt
       INCREMENT shirt 
         (shirt += 1)
       DO Washing Machine ON
+END WHILE
 
 // Periksa Kuku
 
@@ -50,3 +51,5 @@ WHILE student <= 40
             DO punish the student
       ELSE
             DO praise the student
+END WHILE
+
