@@ -1,7 +1,6 @@
  // 1.Hukum Newton II
 
- /* 
-
+/* 
   STORE mass of object with 600 kg.
   STORE object's acceleration with 2 ms/s.
   STORE resultant force (newton).
