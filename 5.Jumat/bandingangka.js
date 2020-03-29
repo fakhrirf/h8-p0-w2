@@ -1,3 +1,4 @@
+/*
 function bandingkanAngka(angka1, angka2) {
     // you can only write your code here!
     if (angka1 < angka2){
@@ -17,3 +18,5 @@ function bandingkanAngka(angka1, angka2) {
   console.log(bandingkanAngka(4, 4)); // -1
   console.log(bandingkanAngka(3, 3)); // -1
   console.log(bandingkanAngka(17, 2)); // false
+  
+  */
