@@ -1,3 +1,4 @@
+/*
 function balikKata(kata) {
     // you can only write your code here!
     var pisahKata = kata.split("");
@@ -13,3 +14,5 @@ function balikKata(kata) {
   console.log(balikKata('I am a bookworm')); // mrowkoob a ma I
   console.log(balikKata('Coding is my hobby')); // ybboh ym si gnidoC
   console.log(balikKata('Super')); //repuS
+  
+  */
