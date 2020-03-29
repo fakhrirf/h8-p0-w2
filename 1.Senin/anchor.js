@@ -20,11 +20,8 @@
 STORE year with any value.
 IF year divided by 4 equals to 0 and year divided by 100 not equals to 0
     DISPLAY leap year
-<<<<<<< HEAD
 IF ELSE year divided by 4 equals to 0 and year divided by 100 equals to 100 and year divided equals to 400
-=======
 IF ELSE year divided by 4 equals to 0 and year divided by 100 equals to 100 and year divided by 400 equals to 0 
->>>>>>> 805a01c7c43e59e0995e05e9dd27f90aa88eb6b4
     DISPLAY leap year
     ELSE;
         DISPLAY not leap year 
@@ -35,12 +32,9 @@ IF ELSE year divided by 4 equals to 0 and year divided by 100 equals to 100 and 
 
 /* 
 
-<<<<<<< HEAD
 Set shirt with 0 
-=======
 STORE shirt to 0 
 
->>>>>>> 805a01c7c43e59e0995e05e9dd27f90aa88eb6b4
 WHILE shirt <= 20
       DISPLAY shirt
       INCREMENT shirt 
@@ -62,8 +56,5 @@ WHILE student <= 40
       ELSE
             DO praise the student
 END WHILE
-<<<<<<< HEAD
 
-=======
 */
->>>>>>> 805a01c7c43e59e0995e05e9dd27f90aa88eb6b4
