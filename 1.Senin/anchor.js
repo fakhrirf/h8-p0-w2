@@ -1,6 +1,4 @@
  // 1. Newton Second Law 
-
-<<<<<<< HEAD
  /* 
 
   Read mass of object with 600 kg.
